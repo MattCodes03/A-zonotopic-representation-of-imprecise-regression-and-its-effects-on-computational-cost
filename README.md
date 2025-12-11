@@ -1,4 +1,4 @@
-# A zonotopic representation of-imprecise regression and its effects on computational cost
+# A zonotopic representation of imprecise regression and its effects on computational cost
 *Matthew McCann and Marco De Angelis*
 *University of Strathclyde*
 
