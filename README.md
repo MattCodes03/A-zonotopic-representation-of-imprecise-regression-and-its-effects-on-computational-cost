@@ -1,8 +1,8 @@
-# A zonotopic representation of imprecise regression and its effects on computational cost
+# Zonotopic representation of multi-variable regression with interval dependent variables
 *Matthew McCann and Marco De Angelis*,
 *University of Strathclyde*
 
-Reproducibility Repository for the Paper 'A zonotopic representation of imprecise regression and its effects on computational cost'. Contains all code used to produce the figures seen in the paper.
+Reproducibility Repository for the Paper 'Zonotopic representation of multi-variable regression with interval dependent variables'. Contains all code used to produce the figures seen in the paper.
 
 To run the examples please first ensure you have all the required libraries, as listed in `requirements.txt` to avoid any potential issues.
 
