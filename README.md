@@ -6,7 +6,22 @@ Reproducibility Repository for the Paper 'Zonotopic representation of multi-vari
 
 To run the examples please first ensure you have all the required libraries, as listed in `requirements.txt` to avoid any potential issues.
 
-Paper - Link to come once published.
+## Citation
+
+If you use this code in your research, please cite:
+
+```bibtex
+@inproceedings{mccann2026zonotopic,
+  title = {Zonotopic representation of multi-variable regression with interval dependent variables},
+  author = {McCann, Matthew and de Angelis, Marco},
+  booktitle = {Proceedings of the 36th European Safety and Reliability Conference (ESREL 2026)},
+  year = {2026},
+  month = mar,
+  day = {31},
+  keywords = {Zonotopes, Imprecise regression, Uncertainty propagation, Interval-valued data},
+  url = {https://www.esrel2026.com}
+}
+```
 
 ## Abstract
 This paper expands on existing works on imprecise regression by shedding light on the set-valued representation of the computational problem of training regression models with interval-valued data. We frame the problem in a zonotopic sense to understand the computational cost and limitations of training imprecise regression models. 
